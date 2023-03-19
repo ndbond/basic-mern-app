@@ -1,0 +1,24 @@
+# Node.js dependencies
+*/node_modules/
+
+# Docker images
+*.dockerfile
+*.dockerignore
+
+# MongoDB data directory
+mongo/data/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+logs/
+*.log
+
+# Build artifacts
+build/
+dist/
